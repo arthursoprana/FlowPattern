@@ -1,0 +1,10 @@
+name = "FlowPattern"
+uuid = "981c615d-4800-4f09-9572-76f6eb70ebcc"
+authors = ["Arthur Soprana <arthur@esss.co>"]
+version = "0.1.0"
+
+[deps]
+Blink = "ad839575-38b3-5650-b840-f874b8c74a25"
+Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
+PackageCompiler = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
